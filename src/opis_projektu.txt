@@ -1,1 +1,4 @@
-Projekt dotyczy aplikacji pomagającej studentom planować naukę. Rozwiązuje problem braku struktury i przeładowania informacjami na studiach. Odbiorcą są osoby 18–25 lat, które chcą lepiej organizować zadania. Na pewno znajdą się: lista zadań, kalendarz tygodniowy, proste statystyki.
+Projekt polega na stworzeniu prostej aplikacji ToDo List w języku JavaScript. 
+Aplikacja będzie działać w przeglądarce i pozwoli użytkownikowi dodawać, usuwać oraz oznaczać zadania jako wykonane. 
+Celem projektu jest nauka podstaw JavaScript oraz manipulacji elementami strony HTML. 
+Aplikacja pomoże w organizowaniu codziennych obowiązków i nauki. 
