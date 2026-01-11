@@ -1,0 +1,28 @@
+[START]
+   |
+   v
+[Utworzenie struktury strony w HTML]
+   |
+   v
+[Dodanie stylów w CSS]
+   |
+   v
+[Dodanie funkcjonalności ToDo listy w JavaScript]
+   |
+   v
+[Strona ToDo List gotowa]
+   |
+   v
+[Użytkownik otwiera stronę]
+   |
+   v
+[Użytkownik wykonuje akcje na stronie]
+   |
+   +--> [Dodaj zadanie]
+   |
+   +--> [Oznacz jako wykonane]
+   |
+   +--> [Usuń zadanie]
+   |
+   v
+[Koniec]
