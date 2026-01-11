@@ -1,0 +1,18 @@
+INSPIRACJE:
+- nauka języka JavaScript
+- polepszenie produktywności i organizacji czasu
+- nauka przedstawiana treści estetycznie i czytelnie
+
+LISTA ELEMENTÓW NA STRONIE:
+- pole do wpisywania zadania
+- przycisk "Dodaj"
+- lista zadań do wykonania
+- przycisk "Usuń" przy zadaniu
+- przycisk potwierdzający wykonanie zadania
+
+WSTĘPNE DANE WEJŚCIOWE:
+- dodawanie i usuwanie zadania na liście
+- personalizacja zadania poprzez pole do wpisania tytułu zadania
+
+ŹRÓDŁA POMYSŁU:
+- kurs JavaScript z Udemy
